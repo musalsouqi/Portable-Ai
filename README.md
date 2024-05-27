@@ -29,7 +29,7 @@ This repository contains a Python script for controlling an LCD display via I2C.
 
 3. **Clone this repository:**
    ```sh
-   git clone https://github.com/your-username/lcd-display-controller.git
+   git clone https://github.com/musalsouqi/Portable-Ai.git
    cd lcd-display-controller
    ```
 
